@@ -1,0 +1,26 @@
+{
+    " Who will be divided into several layers": [
+        "Who is divided into several layers ",
+        "networking concept is divided into several layers"
+    ],
+    " Who will be assigned a particular task": [
+        "Who is assigned a particular task ",
+        "each layer is assigned a particular task"
+    ],
+    " What will define a set of actions that a layer provides": [
+        "What defines a set of actions that a layer provides ",
+        "it defines a set of actions that a layer provides"
+    ],
+    " What will provide a clean-cut interface so that minimum information is shared among different layers": [
+        "What provides a clean-cut interface so that minimum information is shared among different layers ",
+        "a five-layered architecture provides a clean-cut interface so that minimum information is shared among different layers"
+    ],
+    " Who will be more modular": [
+        "Who is more modular ",
+        "layered architecture is more modular"
+    ],
+    " What will provide the independence of layers so that implementation in one layer can be changed without affecting other layers": [
+        "What provides the independence of layers so that implementation in one layer can be changed without affecting other layers ",
+        "modularity provides the independence of layers so that implementation in one layer can be changed without affecting other layers"
+    ]
+}

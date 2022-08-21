@@ -1,0 +1,20 @@
+Computer Network
+A Computer Network is a group of computers connected with each other through wires, optical fibres or optical links.
+The aim of the computer network is the sharing of resources among various devices.
+This tutorial will give you an overview of the SDLC basics, SDLC models available and their application in the industry.
+In the case of computer network technology, there are several types of networks that vary from simple to complex level.  Components Of Computer Network are: NIC(National interface card) NIC is a device that helps the computer to communicate with another device.
+Wired NIC: Cables use the wired NIC to transfer the data over the medium.
+Switches Switch is a networking device that groups all the devices over the network to transfer data to another device, i.e., it sends the message directly from source to the destination.
+A switch is better than Hub as it does not broadcast the message over the networks, but it is sent the message to the device for which it belongs.
+E-commerce is also important in businesses, so it can do business over the internet, e-commerce can be done over the Internet.
+Router Router Router is a transmission media that transmits the communication signals to the source.
+Cables and connectors are used to transmit data over network to other devices, so the message is transmitted to the recipient.
+Software Development Life Cycle (SDLC) is the acronym for Software Development Cycle.  Cables, connectors and cables are used in software development.
+DLC is a process that consists of a series of planned activities to develop or alter the Software Products.
+There are three types of cables:  Twisted pair cable: It transmits data over 1Gbps or more.  Coaxial cable is more expensive than twisted pair cable but it provides the high data transmission speed.
+Fibre optic cable is a high-speed cable that transmit the data using light beams.
+Telephone cable is used to connect the LAN to the internet; it is installed at the government level.
+Modem Modem connects computer to internet over the existing telephone line. A modem is a separate part on the PC slot found on the motherboard.   Uses of Computer Network  Resource sharing: Resource sharing is the shared of resources such as programs, printers, and data among the users on the network without the requirement of the physical location of the resource and user.
+System-Client model: Computer networking is used in the server-client model.  Server is a central computer used to store the information and maintained by the system administrator.
+Clients are the machines used to access the information stored in the servers remotely.
+Communication medium: Computer network behaves as a communication medium among users. For example, a company contains more than one computer has an email system which the employees use for daily communication.

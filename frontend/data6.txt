@@ -1,0 +1,53 @@
+A computer network, also referred to as a data network, is a series of interconnected nodes that can transmit, receive and exchange data, voice and video traffic. Examples of nodes in a network include servers or modems. Computer networks commonly help endpoint users share resources and communicate. They commonly appear all over the place, such as homes, offices and government administrations. The use of computer networks can overcome geographic barriers and enable the sharing of information. Computer networks enable the usage and sharing of any number of applications and services, including emails, video, audio and plenty of other types of data, over the internet.Network devices use a variety of protocols and algorithms to specify exactly how endpoints should transmit and receive data. For example, the Ethernet standard establishes a common language for wired networks to communicate, and the 802.11 standard does the same for wireless local area networks (WLANs).Computer networks have a variety of uses that many would see as essential today, including the following:
+file sharing, which enables users to share data files through a network;
+application sharing, which enables users to share applications through a network;
+hardware sharing, which enables users in a network to share hardware devices, such as printers and hard drives;
+client-server model, which enables data to be stored on servers, where end-user devices -- or clients -- can access that data;
+voice over IP (VoIP), which enables users to send voice data through internet protocols;
+communication, which can include video, text and voice;
+e-commerce, which enables users to sell and buy products over the internet; and
+gaming, which enables multiple users to play together from various locations.
+file sharing, which enables users to share data files through a network;application sharing, which enables users to share applications through a network;hardware sharing, which enables users in a network to share hardware devices, such as printers and hard drives;client-server model, which enables data to be stored on servers, where end-user devices -- or clients -- can access that data;voice over IP (VoIP), which enables users to send voice data through internet protocols;communication, which can include video, text and voice;e-commerce, which enables users to sell and buy products over the internet; andgaming, which enables multiple users to play together from various locations.In addition, program design requires skills and knowledge in both computer network technologies and program requirements.How computer networks workComputer networks operate using a varying set of hardware and software. All packet-switched networks use Transmission Control Protocol/Internet Protocol (TCP/IP) to establish a standard means of communication. Each endpoint in a network has a unique identifier that is used to indicate the source or destination of the transmission. Identifiers include the node's IP address or Media Access Control (MAC) address. Endpoint nodes, which are used for routing purposes, include switches and routers, servers, personal computers, phones, networked printers and other peripheral computing devices, as well as sensors and actuators. The Open Systems Interconnection (OSI) model defines how data is transferred between computers.A network's capacity is how much traffic the network can support at any one time while still meeting service-level agreements (SLAs). Network capacity is measured in terms of bandwidth. Bandwidth is quantified by the theoretical maximum number of bits per second (bps) that can pass through a network device. Throughput is a measure of the actual speed of a successful transmission after accounting for factors like latency, processing power and protocol overhead.AdvantagesAdvantages of using computer networks include the following:
+file sharing, which enables users to share data between users;
+resource sharing, which enables users to share multiple devices, such as copiers and printers;
+communication, which enables users to send and receive messages and data in real time from multiple devices;
+convenience in that data is accessible through an internet connection;
+cost in that there are reduced hardware costs since networked devices can share resources; and
+storage, which enables users to access data that's stored remotely or on other network devices.
+file sharing, which enables users to share data between users;resource sharing, which enables users to share multiple devices, such as copiers and printers;communication, which enables users to send and receive messages and data in real time from multiple devices;convenience in that data is accessible through an internet connection;cost in that there are reduced hardware costs since networked devices can share resources; andstorage, which enables users to access data that's stored remotely or on other network devices.Types of computer networksNetworks are often categorized by the wired or wireless transmission technology they support, as well as the scope of their domains. Some examples of computer networks include the following:
+local area networks (LANs), which interconnect endpoints in a single domain;
+in contrast, wide area networks (WANs), which interconnect multiple LANs;
+metropolitan area networks (MANs), which interconnect computer resources in a geographic area;
+storage area networks (SANs), which interconnect storage devices and resources;
+personal area networks (PANs);
+WLANs;
+campus area networks (CANs);
+virtual private networks (VPNs);
+passive optical networks (PONs); and
+local area networks (LANs), which interconnect endpoints in a single domain;in contrast, wide area networks (WANs), which interconnect multiple LANs;metropolitan area networks (MANs), which interconnect computer resources in a geographic area;storage area networks (SANs), which interconnect storage devices and resources;personal area networks (PANs);WLANs;campus area networks (CANs);virtual private networks (VPNs);passive optical networks (PONs); andNetworks may also be divided into subnetworks, also called subnets.Network accessNetworks can be public or private. While anyone can access the public internet, access to private and virtually private networks requires the end user to be assigned access credentials.In the enterprise, network access control (NAC) systems typically use security policies to control access to the organization's network. This means that network devices are not allowed to connect unless they meet a predefined business policy, which is enforced by NAC products. When deployed, NAC systems immediately discover all the devices connected to a network, categorize them by type and then react to them based on preconfigured compliance rules implemented by the organization's security team.NAC products enable device access to a network based on a specific, per-device basis, with granular controls over what type and level of access is allowed. These controls are delivered by policies that are defined in a central control system. Most NAC systems can also integrate with Active Directory (AD) in order to control network access based on group policy, ensuring users only have the network access required to fulfill their jobs.Network topologiesA network topology is the physical or logical structure of a network. Network topologies include the following:
+Full mesh network. All nodes are connected to each other and can exchange data.
+Partial mesh network. Some nodes are connected to each other in a full mesh scheme, but others are only connected to one or two other nodes in the network.
+Point-to-point network. Network connectivity is limited to two endpoints.
+Star network. All network nodes are connected to a common central computer.
+Tree network. Two or more star networks are connected together.
+Bus network. Network devices are attached directly to a transmission line. All signals pass through all devices, but each device has a unique identity and recognizes signals intended for it.
+Ring network. Network devices are connected to each other in a ring format, where each device is connected to at least two other devices.
+   
+
+
+A visual of different types of network topology
+    
+
+
+
+
+Full mesh network. All nodes are connected to each other and can exchange data.Partial mesh network. Some nodes are connected to each other in a full mesh scheme, but others are only connected to one or two other nodes in the network.Point-to-point network. Network connectivity is limited to two endpoints.Star network. All network nodes are connected to a common central computer.Tree network. Two or more star networks are connected together.Bus network. Network devices are attached directly to a transmission line. All signals pass through all devices, but each device has a unique identity and recognizes signals intended for it.Ring network. Network devices are connected to each other in a ring format, where each device is connected to at least two other devices.
+   
+
+
+A visual of different types of network topology
+    
+
+
+
+Network topology vs. network fabricNetwork topologies are the physical or logical structure of a network. The term network fabric describes the way each topology creates a particular type of crisscross pattern of connections, such as bus, ring and star topologies. The word fabric is used as an allusion to threads in a fabric. A good way to remember the difference is that network fabrics describe a network topology.

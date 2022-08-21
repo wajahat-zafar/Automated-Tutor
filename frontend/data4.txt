@@ -1,0 +1,55 @@
+
+
+
+
+What is a Computer Network?
+
+Computer Network is a group of computers connected with each other through wires, optical fibres or optical links so that various devices can interact with each other through a network.
+The aim of the computer network is the sharing of resources among various devices.
+In the case of computer network technology, there are several types of networks that vary from simple to complex level.
+
+Components Of Computer Network:
+
+Major components of a computer network are:
+NIC(National interface card)
+NIC is a device that helps the computer to communicate with another device. The network interface card contains the hardware addresses, the data-link layer protocol use this address to identify the system on the network so that it transfers the data to the correct destination.
+There are two types of NIC: wireless NIC and wired NIC.
+
+Wireless NIC: All the modern laptops use the wireless NIC. In Wireless NIC, a connection is made using the antenna that employs the radio wave technology.
+Wired NIC: Cables use the wired NIC to transfer the data over the medium.
+
+
+Hub
+Hub is a central device that splits the network connection into multiple devices. When computer requests for information from a computer, it sends the request to the Hub. Hub distributes this request to all the interconnected computers.
+
+Switches
+Switch is a networking device that groups all the devices over the network to transfer the data to another device. A switch is better than Hub as it does not broadcast the message over the network, i.e., it sends the message to the device for which it belongs to. Therefore, we can say that switch sends the message directly from source to the destination.
+
+Cables and connectors
+Cable is a transmission media that transmits the communication signals. There are three types of cables:
+
+Twisted pair cable: It is a high-speed cable that transmits the data over 1Gbps or more. 
+Coaxial cable: Coaxial cable resembles like a TV installation cable. Coaxial cable is more expensive than twisted pair cable, but it provides the high data transmission speed. 
+Fibre optic cable: Fibre optic cable is a high-speed cable that transmits the data using light beams. It provides high data transmission speed as compared to other cables. It is more expensive as compared to other cables, so it is installed at the government level. 
+
+
+Router
+Router is a device that connects the LAN to the internet. The router is mainly used to connect the distinct networks or connect the internet to multiple computers.
+
+Modem
+Modem connects the computer to the internet over the existing telephone line. A modem is not integrated with the computer motherboard. A modem is a separate part on the PC slot found on the motherboard. 
+
+Uses Of Computer Network
+
+Resource sharing: Resource sharing is the sharing of resources such as programs, printers, and data among the users on the network without the requirement of the physical location of the resource and user.
+Server-Client model: Computer networking is used in the server-client model. A server is a central computer used to store the information and maintained by the system administrator. Clients are the machines used to access the information stored in the server remotely.
+Communication medium: Computer network behaves as a communication medium among the users. For example, a company contains more than one computer has an email system which the employees use for daily communication.
+E-commerce: Computer network is also important in businesses. We can do the business over the internet. For example, amazon.com is doing their business over the internet, i.e., they are doing their business over the internet.
+
+
+
+
+
+
+
+
